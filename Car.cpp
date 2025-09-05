@@ -10,7 +10,7 @@ class Car{
     public:
     void setCar(){
 
-        cout << "\n---Enter Details of Car ---\n";
+        cout << "---Enter Details of Car ---";
         
         cout<<"Enter Model of Car :"<<endl;
         cin>>model;
@@ -24,7 +24,7 @@ class Car{
 
     void getCar(){
 
-        cout << "\n--- Car Details ---\n";
+        cout << "--- Car Details ---";
 
         cout<<"Model :"<<model<<endl;
 

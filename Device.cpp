@@ -78,7 +78,7 @@ int main() {
     Smartphone smartphone;
 
     while (choice) {
-        cout << "\n==== Device Menu ====" << endl;
+        cout << "==== Device Menu ====" << endl;
         cout << "1. Enter Laptop Details" << endl;
         cout << "2. Display Laptop Details" << endl;
         cout << "3. Enter Smartphone Details" << endl;
